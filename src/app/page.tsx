@@ -8,26 +8,27 @@ export default async function Home() {
           <div className="intro">
             <img
               src="/imgs/alsiam.png"
-              alt="Al Siam Profile"
+              alt="Ahmad Raza img"
               className="shadow-dark"
             />
-            <h1>Your Name</h1>
-            <p>Your expertise</p>
+            <h1>Ahmad Raza</h1>
+            <p>Web and App Developer</p>
             <div className="social-links">
-              <a href="https://twitter.com/" target="_blank">
-                <i className="fa fa-twitter" />
-              </a>
-              <a href="https://facebook.com/" target="_blank">
+             
+              <a href="https://www.facebook.com/ahmad.razi.1447" target="_blank">
                 <i className="fa fa-facebook" />
               </a>
-              <a href="https://github.com/" target="_blank">
+              <a href="https://github.com/AhmadRazaNewMan" target="_blank">
                 <i className="fa fa-github" />
               </a>
-              <a href="https://instagram.com/" target="_blank">
+              <a href="https://www.instagram.com/ahmad.razi.1447/" target="_blank">
                 <i className="fa fa-instagram" />
               </a>
-              <a href="https://linkedin.com/in/" target="_blank">
+              <a href="https://www.linkedin.com/in/ahmad-raza-488563262/" target="_blank">
                 <i className="fa fa-linkedin" />
+              </a>
+              <a href="https://twitter.com/" target="_blank">
+                <i className="fa fa-twitter" />
               </a>
             </div>
           </div>
